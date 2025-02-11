@@ -1,0 +1,3 @@
+C:/Users/ymari/Desktop/ProjectFile/ProjectFile/CMakeFiles/ProjectFile.dir
+C:/Users/ymari/Desktop/ProjectFile/ProjectFile/CMakeFiles/edit_cache.dir
+C:/Users/ymari/Desktop/ProjectFile/ProjectFile/CMakeFiles/rebuild_cache.dir

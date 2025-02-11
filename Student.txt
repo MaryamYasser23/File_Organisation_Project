@@ -1,0 +1,10 @@
+1591|Maryam Yasser|2025|4.0|
+2|Ebtihal Ragab|2023|4.0|
+3|Farah Ahmed|2023|4.0|
+12|Ayaa|2020|4.0|*4.0|
+5|Nour Shaban|2021|4.0|
+6|Aya Mohammed|2019|3.9|*|
+*-1 |22Ahmed|2021|4.0|
+4|AbdulAlrahman Mohammed|2023|4.0|
+10|Mai Nasser|2020|4.0|
+7|Tasnim Ahmed|2021|4.0|

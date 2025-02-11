@@ -1,0 +1,7 @@
+-1 1|Walter White|1001|2|
+2|Jesse Pinkman|1002|2|
+3|Skyler Tom|1001|1|
+4|Hank Schrader|1001|4|
+5|Soul Goodman|1002|3|
+6|Marie Schrader|1002|2|
+7|Mike Ehrmant|1002|3|
