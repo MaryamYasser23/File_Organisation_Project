@@ -57,8 +57,6 @@ Where:
 2. Depending on the selection, the program will prompt you with further options like **Insert**, **Update**, **Delete**, etc.
 3. Follow the on-screen prompts to interact with the system.
 
----
-
 ## Project Structure
 ```
 - Main.cpp              : Entry point of the program.
