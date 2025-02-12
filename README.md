@@ -1,5 +1,5 @@
 ## Description
-This project is a **Student Affairs Services** focusing on the Student and Professor Record Management System, which allows users to manage records of students and professors in a university database. The system supports operations such as inserting, updating, deleting, and displaying records, along with search functionalities based on both primary and secondary indices. The records are stored using a `file-based system` with `variable-length records`, allowing for efficient storage and retrieval of data. 
+This project is a **Student Affairs Services** focusing on the Student and Professor Record Management System, which allows users to manage records of students and professors in a university database. The system supports operations such as inserting, updating, deleting, and displaying records, along with search functionalities based on both primary and secondary indices. The records are stored using a `file-based system` with `variable-length records and fields`, allowing for efficient storage and retrieval of data. 
 It is part of the File Organization course in the second year of university.
 
 ## Features
