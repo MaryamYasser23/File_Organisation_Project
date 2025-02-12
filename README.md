@@ -52,18 +52,6 @@ Where:
 - **Delete Record**: Delete a professor record by either name or ID.
 - **Display Records**: Display the top N professor records.
 
-## Compilation Instructions
-To compile and run the program, use the following steps:
-1. Make sure all the necessary `.txt` files (Student.txt, Professor.txt, etc.) are in place.
-2. Use a C++ compiler like `g++`:
-   ```bash
-   g++ -o record_management System.cpp
-   ```
-3. Run the program:
-   ```bash
-   ./record_management
-   ```
-
 ## How to Use
 1. When the program starts, you'll be presented with a **Main Menu** offering the choice between managing **Student Entity** or **Professor Entity**.
 2. Depending on the selection, the program will prompt you with further options like **Insert**, **Update**, **Delete**, etc.
